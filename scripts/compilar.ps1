@@ -1,4 +1,4 @@
-# Checkpoint 6 - Compila el proyecto y ejecuta las pruebas unitarias.
+﻿# Checkpoint 6 - Compila el proyecto y ejecuta las pruebas unitarias.
 # Uso (desde la raíz del repositorio):
 #   powershell -ExecutionPolicy Bypass -File scripts\compilar.ps1
 

@@ -1,4 +1,4 @@
-# Checkpoint 6 - Inicia un emulador, instala la app, la abre y toma capturas de las dos pantallas.
+﻿# Checkpoint 6 - Inicia un emulador, instala la app, la abre y toma capturas de las dos pantallas.
 # Uso (desde la raíz del repositorio, después de scripts\compilar.ps1):
 #   powershell -ExecutionPolicy Bypass -File scripts\ejecutar_emulador.ps1 [-Avd Medium_Phone_API_37.0]
 
@@ -34,7 +34,7 @@ Write-Host "==> Dispositivo listo: $((Invoke-Adb shell getprop ro.product.model)
 Invoke-Adb install -r $apk
 Invoke-Adb shell am force-stop $paquete
 Invoke-Adb shell am start -W -n "$paquete/.MainActivity"
-Start-Sleep -Seconds 3
+Start-Sleep -Seconds 6
 
 # 3. Capturas de pantalla
 New-Item -ItemType Directory -Force $Salida | Out-Null
@@ -43,17 +43,41 @@ function Save-Captura($nombre) {
     Invoke-Adb pull /sdcard/captura.png (Join-Path $Salida $nombre) | Out-Null
     Write-Host "    captura -> $Salida\$nombre"
 }
+
+# Toca el centro del primer elemento de la UI cuyo texto empiece con $texto (usa uiautomator)
+function Invoke-TocarTexto($texto) {
+    $xml = (Invoke-Adb exec-out uiautomator dump /dev/tty) -join ""
+    $patron = 'text="' + [regex]::Escape($texto) + '[^"]*"[^>]*bounds="\[(\d+),(\d+)\]\[(\d+),(\d+)\]"'
+    if ($xml -match $patron) {
+        $x = ([int]$Matches[1] + [int]$Matches[3]) / 2
+        $y = ([int]$Matches[2] + [int]$Matches[4]) / 2
+        Invoke-Adb shell input tap $x $y
+        Start-Sleep -Seconds 2
+        return $true
+    }
+    Write-Warning "No se encontró '$texto' en la pantalla"
+    return $false
+}
+
+# Pantalla 1: lista de libros
 Save-Captura "pantalla1_libros.png"
 
-# Cambiar a la pestaña "Autores" de la barra de navegación inferior
-$xml = Invoke-Adb exec-out uiautomator dump /dev/tty
-if ($xml -match 'text="Autores"[^>]*bounds="\[(\d+),(\d+)\]\[(\d+),(\d+)\]"') {
-    $x = ([int]$Matches[1] + [int]$Matches[3]) / 2
-    $y = ([int]$Matches[2] + [int]$Matches[4]) / 2
-    Invoke-Adb shell input tap $x $y
+# Pantalla 1: detalle de un libro (AlertDialog). Prefijo ASCII de "Cien años de soledad".
+if (Invoke-TocarTexto "Cien a") {
+    Save-Captura "pantalla1_detalle.png"
+    Invoke-TocarTexto "Cerrar" | Out-Null
+}
+
+# Pantalla 1: búsqueda por autor
+if (Invoke-TocarTexto "Buscar por") {
+    Invoke-Adb shell input text "Tolkien"
+    Invoke-Adb shell input keyevent 66    # ENTER: accion "Buscar" (oculta el teclado)
     Start-Sleep -Seconds 2
+    Save-Captura "pantalla1_busqueda.png"
+}
+
+# Pantalla 2: autores (pestaña de la NavigationBar)
+if (Invoke-TocarTexto "Autores") {
     Save-Captura "pantalla2_autores.png"
-} else {
-    Write-Warning "No se encontró la pestaña 'Autores' en la jerarquía de la UI"
 }
 Write-Host "==> Listo"
