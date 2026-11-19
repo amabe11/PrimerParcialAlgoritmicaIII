@@ -1,0 +1,274 @@
+<mxfile host="drawio" agent="drawio_lib.py" type="device">
+  <diagram name="Pantalla 2 - Autores" id="d1">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1080" pageHeight="938" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c3" value="&lt;b style='font-size:22px'&gt;Pantalla 2 — Autores&lt;/b&gt;&lt;br&gt;&lt;span style='font-size:13px'&gt;Lista objetos &lt;b&gt;Autor&lt;/b&gt; y, al expandir, sus objetos &lt;b&gt;Libro&lt;/b&gt; (Libreria.librosDeAutor)&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="900" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#222222;strokeColor=#222222;rounded=1;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="32" y="82" width="396" height="816" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF8F0;strokeColor=#222222;rounded=1;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="380" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" value="&lt;span style='font-size:11px;color:#333'&gt;&amp;nbsp;&amp;nbsp;9:41&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="48" y="94" width="80" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" value="&lt;span style='font-size:11px;color:#333'&gt;▾ ▮ 100%&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="94" width="70" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5D2E1F;strokeColor=#5D2E1F;" parent="1" vertex="1">
+          <mxGeometry x="40" y="116" width="380" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" value="&lt;b style='color:#fff;font-size:18px;font-family:Georgia'&gt;Autores&lt;/b&gt;&lt;br&gt;&lt;span style='color:#FFDBCF;font-size:12px'&gt;7 autores registrados&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="56" y="120" width="300" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" value="&lt;span style='color:#fff;font-size:20px'&gt;📚&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="376" y="132" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#E0CFC2;rounded=1;arcSize=6;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="52" y="190" width="356" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="c12" value="GM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5D2E1F;strokeColor=#5D2E1F;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="64" y="212" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="c13" value="&lt;b style='font-size:15px;font-family:Georgia'&gt;Gabriel García Márquez&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="124" y="202" width="260" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="c14" value="&lt;span style='font-size:12px;color:#666'&gt;Colombia · nacido en 1927&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="124" y="226" width="240" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c15" value="3 libros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8902E;strokeColor=#C8902E;rounded=1;arcSize=50;fontSize=11;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="124" y="252" width="62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c16" value="&lt;span style='font-size:16px'&gt;▴&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="378" y="224" width="20" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0CFC2;strokeColor=#E0CFC2;" parent="1" vertex="1">
+          <mxGeometry x="64" y="284" width="332" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c18" value="&lt;span style='font-size:12px;color:#444'&gt;&lt;i&gt;Premio Nobel de Literatura 1982, figura central del realismo mágico.&lt;/i&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="66" y="292" width="328" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="c19" value="&lt;b style='font-size:12px'&gt;Libros en la librería&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="66" y="332" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8ECE2;strokeColor=#F8ECE2;rounded=1;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="66" y="356" width="328" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="c21" value="&lt;span style='font-size:12px'&gt;📖 Cien años de soledad &lt;span style='color:#888'&gt;(1967)&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="74" y="360" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c22" value="&lt;b style='font-size:12px;color:#5D2E1F'&gt;Bs 150.00&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="316" y="360" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8ECE2;strokeColor=#F8ECE2;rounded=1;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="66" y="388" width="328" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="c24" value="&lt;span style='font-size:12px'&gt;📖 El amor en los tiempos del cólera &lt;span style='color:#888'&gt;(1985)&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="74" y="392" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c25" value="&lt;b style='font-size:12px;color:#5D2E1F'&gt;Bs 135.00&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="316" y="392" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8ECE2;strokeColor=#F8ECE2;rounded=1;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="66" y="420" width="328" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="c27" value="&lt;span style='font-size:12px'&gt;📖 Crónica de una muerte anunciada &lt;span style='color:#888'&gt;(1981)&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="74" y="424" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c28" value="&lt;b style='font-size:12px;color:#5D2E1F'&gt;Bs 90.00&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="316" y="424" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#E0CFC2;rounded=1;arcSize=6;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="52" y="468" width="356" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="c30" value="IA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5D2E1F;strokeColor=#5D2E1F;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="64" y="490" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="c31" value="&lt;b style='font-size:15px;font-family:Georgia'&gt;Isabel Allende&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="124" y="480" width="260" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="c32" value="&lt;span style='font-size:12px;color:#666'&gt;Chile · nacida en 1942&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="124" y="504" width="240" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c33" value="2 libros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8902E;strokeColor=#C8902E;rounded=1;arcSize=50;fontSize=11;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="124" y="530" width="62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c34" value="&lt;span style='font-size:16px'&gt;▾&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="378" y="502" width="20" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#E0CFC2;rounded=1;arcSize=6;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="52" y="572" width="356" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="c36" value="JB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5D2E1F;strokeColor=#5D2E1F;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="64" y="594" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="c37" value="&lt;b style='font-size:15px;font-family:Georgia'&gt;Jorge Luis Borges&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="124" y="584" width="260" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="c38" value="&lt;span style='font-size:12px;color:#666'&gt;Argentina · nacido en 1899&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="124" y="608" width="240" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c39" value="2 libros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8902E;strokeColor=#C8902E;rounded=1;arcSize=50;fontSize=11;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="124" y="634" width="62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c40" value="&lt;span style='font-size:16px'&gt;▾&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="378" y="606" width="20" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#E0CFC2;rounded=1;arcSize=6;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="52" y="676" width="356" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="c42" value="GO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5D2E1F;strokeColor=#5D2E1F;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="64" y="698" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="c43" value="&lt;b style='font-size:15px;font-family:Georgia'&gt;George Orwell&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="124" y="688" width="260" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="c44" value="&lt;span style='font-size:12px;color:#666'&gt;Reino Unido · nacido en 1903&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="124" y="712" width="240" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c45" value="2 libros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8902E;strokeColor=#C8902E;rounded=1;arcSize=50;fontSize=11;fontColor=#ffffff;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="124" y="738" width="62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c46" value="&lt;span style='font-size:16px'&gt;▾&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="378" y="710" width="20" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#E0CFC2;rounded=1;arcSize=6;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="52" y="780" width="356" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F3E6D8;strokeColor=#F3E6D8;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="816" width="380" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="c49" value="&lt;div style='text-align:center;font-size:18px'&gt;📖&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="103.0" y="826" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c50" value="&lt;div style='text-align:center;font-size:12px;font-weight:normal'&gt;Libros&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="95.0" y="860" width="80" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFDBCF;strokeColor=#FFDBCF;rounded=1;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="293.0" y="826" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c52" value="&lt;div style='text-align:center;font-size:18px'&gt;👤&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="293.0" y="826" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c53" value="&lt;div style='text-align:center;font-size:12px;font-weight:bold'&gt;Autores&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="285.0" y="860" width="80" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="c54" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="390" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c55" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="408" y="130" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c56" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="550" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c57" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="408" y="194" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c58" value="5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="54" y="194" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c59" value="6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="352" y="224" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c60" value="7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="192" y="250" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c61" value="8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="408" y="230" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c62" value="9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="358" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c63" value="10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="402" y="274" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c64" value="11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="402" y="358" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c65" value="12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="408" y="840" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c66" value="&lt;b style='font-size:15px'&gt;Componentes de Jetpack Compose&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="480" y="80" width="560" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="c67" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="118" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c68" value="&lt;b style='font-family:Consolas'&gt;Scaffold&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Misma estructura que la pantalla 1 (comparten la NavigationBar).&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="114" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c69" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="164" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c70" value="&lt;b style='font-family:Consolas'&gt;TopAppBar&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Título &quot;Autores&quot; y cantidad de autores registrados.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="160" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c71" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="210" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c72" value="&lt;b style='font-family:Consolas'&gt;LazyColumn (items, key = id)&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Lista de objetos Autor ordenados por apellido (listarAutores()).&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="206" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c73" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="256" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c74" value="&lt;b style='font-family:Consolas'&gt;ElevatedCard (onClick)&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Tarjeta de cada autor; al tocarla se expande o contrae.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="252" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c75" value="5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="302" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c76" value="&lt;b style='font-family:Consolas'&gt;Box (CircleShape) + Text&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Avatar circular con las iniciales del autor (Persona.iniciales()).&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="298" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c77" value="6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="348" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c78" value="&lt;b style='font-family:Consolas'&gt;Text / Column&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Nombre completo y nacionalidad · año de nacimiento.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="344" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c79" value="7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="394" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c80" value="&lt;b style='font-family:Consolas'&gt;Badge&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Cantidad de libros del autor (Libreria.librosDeAutor(autor).size).&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="390" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c81" value="8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="440" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c82" value="&lt;b style='font-family:Consolas'&gt;Icon (ExpandMore / ExpandLess)&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Indica si la tarjeta está expandida (rememberSaveable).&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="436" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c83" value="9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="486" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c84" value="&lt;b style='font-family:Consolas'&gt;AnimatedVisibility&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Animación al mostrar la biografía y los libros del autor.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="482" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c85" value="10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="532" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c86" value="&lt;b style='font-family:Consolas'&gt;HorizontalDivider&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Separa el encabezado del contenido expandido.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="528" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c87" value="11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="578" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c88" value="&lt;b style='font-family:Consolas'&gt;Row + Text (por cada Libro)&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Título, año y precio de cada libro del autor.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="574" width="526" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c89" value="12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1565C0;strokeColor=#ffffff;shape=ellipse;perimeter=ellipsePerimeter;fontColor=#ffffff;fontStyle=1;fontSize=12;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="480" y="624" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c90" value="&lt;b style='font-family:Consolas'&gt;NavigationBar + NavigationBarItem&lt;/b&gt;&lt;br&gt;&lt;span style='color:#555'&gt;Navegación entre las dos pantallas: Libros y Autores.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="514" y="620" width="526" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
