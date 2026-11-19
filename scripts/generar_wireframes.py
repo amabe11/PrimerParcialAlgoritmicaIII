@@ -116,7 +116,7 @@ def pantalla_libros():
     # Chips de género
     y += 58
     x = X0
-    for i, (g, w) in enumerate([("Todos", 62), ("Novela", 70), ("Fantasía", 80), ("Cuento", 68), ("Ciencia…", 66)]):
+    for i, (g, w) in enumerate([("Todos", 62), ("Novela", 70), ("Cuento", 68), ("Fantasía", 80), ("Ciencia…", 66)]):
         sel = i == 0
         rect(d, x, y, w, 32, fill="#FFDBCF" if sel else "#ffffff", stroke="#8D7168",
              texto=("✓ " if sel else "") + g, extra="rounded=1;arcSize=25;fontSize=12;")
@@ -217,15 +217,15 @@ def pantalla_autores():
     y = PY + 100
     lista_y = y
     autores = [
-        ("GM", "Gabriel García Márquez", "Colombia · nacido en 1927", "3 libros", True),
-        ("IA", "Isabel Allende", "Chile · nacida en 1942", "2 libros", False),
-        ("JB", "Jorge Luis Borges", "Argentina · nacido en 1899", "2 libros", False),
-        ("GO", "George Orwell", "Reino Unido · nacido en 1903", "2 libros", False),
-        ("EP", "Edmundo Paz Soldán", "Bolivia · nacido en 1967", "2 libros", False),
+        ("IA", "Isabel Allende", "Chile · n. 1942", "2 libros", True),
+        ("JB", "Jorge Luis Borges", "Argentina · n. 1899", "2 libros", False),
+        ("GG", "Gabriel García Márquez", "Colombia · n. 1927", "3 libros", False),
+        ("GO", "George Orwell", "Reino Unido · n. 1903", "2 libros", False),
+        ("EP", "Edmundo Paz Soldán", "Bolivia · n. 1967", "2 libros", False),
     ]
     limite = PY + PH - 80
     for ini, nombre, sub, n, expandido in autores:
-        h = 268 if expandido else 94
+        h = 236 if expandido else 94
         if y + 30 > limite:
             break
         visible = min(h, limite - y)
@@ -240,13 +240,12 @@ def pantalla_autores():
             txt(d, f"<span style='font-size:16px'>{'▴' if expandido else '▾'}</span>", X0 + W0 - 30, y + 34, 20, 24)
         if expandido:
             rect(d, X0 + 12, y + 94, W0 - 24, 1, fill="#E0CFC2", stroke="#E0CFC2")
-            txt(d, "<span style='font-size:12px;color:#444'><i>Premio Nobel de Literatura 1982, figura central "
-                   "del realismo mágico.</i></span>", X0 + 14, y + 102, W0 - 28, 36,
+            txt(d, "<span style='font-size:12px;color:#444'><i>Una de las novelistas en español más leídas "
+                   "del mundo.</i></span>", X0 + 14, y + 102, W0 - 28, 36,
                 "whiteSpace=wrap;verticalAlign=top;")
             txt(d, "<b style='font-size:12px'>Libros en la librería</b>", X0 + 14, y + 142, 200, 18)
-            for j, (t, a, p) in enumerate([("Cien años de soledad", "1967", "Bs 150.00"),
-                                           ("El amor en los tiempos del cólera", "1985", "Bs 135.00"),
-                                           ("Crónica de una muerte anunciada", "1981", "Bs 90.00")]):
+            for j, (t, a, p) in enumerate([("La casa de los espíritus", "1982", "Bs 140.00"),
+                                           ("El viento conoce mi nombre", "2025", "Bs 165.00")]):
                 yy = y + 166 + j * 32
                 rect(d, X0 + 14, yy, W0 - 28, 28, fill=TARJETA, stroke=TARJETA, extra="rounded=1;arcSize=20;")
                 txt(d, f"<span style='font-size:12px'>📖 {t} <span style='color:#888'>({a})</span></span>",

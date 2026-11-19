@@ -8,3 +8,4 @@ Aplicación Android en **Kotlin + Jetpack Compose** para el caso de estudio **Li
 | 2 – Implementación | Clases del modelo en Kotlin (POO) + datos de ejemplo + pruebas unitarias | [`app/src/main/java/com/upb/libreria/model`](app/src/main/java/com/upb/libreria/model) |
 | 3 – Scripts | Prompts de IA, generadores de diagramas draw.io y scripts de compilación/ejecución | [`scripts`](scripts) |
 | 4 – Diseño de interfaz | Bocetos de las 2 pantallas (draw.io + PNG) con los componentes de Jetpack Compose | [`docs/checkpoint4`](docs/checkpoint4) |
+| 5 – Interfaz | Pantallas Libros y Autores en Jetpack Compose | [`docs/checkpoint5`](docs/checkpoint5) · [`app/.../ui`](app/src/main/java/com/upb/libreria/ui) |

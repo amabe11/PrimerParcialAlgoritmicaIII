@@ -37,7 +37,11 @@ private val EsquemaClaro = lightColorScheme(
     onSurface = Color(0xFF231A16),
     surfaceVariant = PapelOscuro,
     onSurfaceVariant = Color(0xFF53433E),
+    surfaceContainerLowest = Color.White,
+    surfaceContainerLow = Color(0xFFFFFBF7),
     surfaceContainer = Color(0xFFF8ECE2),
+    surfaceContainerHigh = Color(0xFFF3E6D8),
+    surfaceContainerHighest = Color(0xFFEEDFD0),
 )
 
 private val EsquemaOscuro = darkColorScheme(
@@ -55,6 +59,11 @@ private val EsquemaOscuro = darkColorScheme(
     onSurface = Color(0xFFF1DFD9),
     surfaceVariant = Color(0xFF53433E),
     onSurfaceVariant = Color(0xFFD8C2BB),
+    surfaceContainerLowest = Color(0xFF140C09),
+    surfaceContainerLow = Color(0xFF231915),
+    surfaceContainer = Color(0xFF271D19),
+    surfaceContainerHigh = Color(0xFF322823),
+    surfaceContainerHighest = Color(0xFF3D322D),
 )
 
 private val Tipografia = Typography(

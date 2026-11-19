@@ -40,11 +40,11 @@
         <mxCell id="c14" value="Novela" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#8D7168;rounded=1;arcSize=25;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="122" y="248" width="70" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="c15" value="Fantasía" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#8D7168;rounded=1;arcSize=25;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="200" y="248" width="80" height="32" as="geometry" />
+        <mxCell id="c15" value="Cuento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#8D7168;rounded=1;arcSize=25;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="200" y="248" width="68" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="c16" value="Cuento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#8D7168;rounded=1;arcSize=25;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="288" y="248" width="68" height="32" as="geometry" />
+        <mxCell id="c16" value="Fantasía" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#8D7168;rounded=1;arcSize=25;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="248" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="c17" value="Ciencia…" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#8D7168;rounded=1;arcSize=25;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="364" y="248" width="66" height="32" as="geometry" />
